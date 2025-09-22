@@ -1,0 +1,16 @@
+{
+"name": "Ambiente Web (Node.js)",
+"customizations": {
+"vscode": {
+"extensions": [
+            "formulahendry.auto-close-tag",
+            "formulahendry.auto-complete-tag",
+            "formulahendry.auto-rename-tag",
+            "formulahendry.code-runner",
+            "ms-vscode.live-server",
+            "ritwickdey.liveserver"
+         ]
+    }
+},
+"forwardPorts": [5500]
+}
